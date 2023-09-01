@@ -5,7 +5,7 @@
 
 # Установка
 
-**Внимание!** Для работы пакета необходимо импортировать [VContainer](https://vcontainer.hadashikick.jp/getting-started/installation)
+> **Внимание!** Для работы пакета необходимо импортировать [VContainer](https://vcontainer.hadashikick.jp/getting-started/installation)
 
 
 ## В виде unity-модуля
