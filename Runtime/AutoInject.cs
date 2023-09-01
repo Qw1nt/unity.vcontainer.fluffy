@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Runtime.DI.Core
+namespace SnailBee.VContainer.LiteTemplate
 {
     public class AutoInject : MonoBehaviour
     {

@@ -3,7 +3,7 @@ using UnityEngine;
 using VContainer;
 using VContainer.Unity;
 
-namespace Runtime.DI.Core
+namespace SnailBee.VContainer.LiteTemplate
 {
     public abstract class DiContainerBase : LifetimeScope
     {
