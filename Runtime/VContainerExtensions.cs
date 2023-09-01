@@ -3,7 +3,7 @@ using System.Linq;
 using VContainer;
 using VContainer.Unity;
 
-namespace SnailBee.VContainer.LiteTemplate
+namespace Runtime.DI.Core.Runtime
 {
     public static class VContainerExtensions
     {
