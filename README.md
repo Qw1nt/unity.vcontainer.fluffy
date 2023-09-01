@@ -5,6 +5,9 @@
 
 ## Установка
 
+**Внимание!** Для работы пакета необходимо импортировать [VContainer](https://vcontainer.hadashikick.jp/getting-started/installation)
+
+
 ### В виде unity-модуля
 
 Поддерживается установка в виде unity-модуля через git-ссылку в PackageManager или прямое редактирование Packages/manifest.json:
