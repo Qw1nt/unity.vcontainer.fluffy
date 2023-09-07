@@ -3,7 +3,7 @@ using UnityEngine;
 using VContainer;
 using VContainer.Unity;
 
-namespace Runtime.DI.Core.Runtime
+namespace Qw1nt.VContainer.LiteTemplate.Runtime
 {
     public abstract class DiContainerBase : LifetimeScope
     {
@@ -17,7 +17,7 @@ namespace Runtime.DI.Core.Runtime
 
         private void FindAutoInjectObject()
         {
-            var objects = FindObjectsByType<AutoInject>(FindObjectsInactive.Include, FindObjectsSortMode.None)
+            var objects = Object.FindObjectsOfType<AutoInject>(true)
                 .Select(x => x.gameObject).ToList();
             autoInjectGameObjects = objects;
         }

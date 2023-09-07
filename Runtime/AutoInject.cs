@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Runtime.DI.Core.Runtime
+namespace Qw1nt.VContainer.LiteTemplate.Runtime
 {
     public class AutoInject : MonoBehaviour
     {

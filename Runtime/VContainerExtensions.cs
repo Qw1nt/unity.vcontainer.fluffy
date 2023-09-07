@@ -3,7 +3,7 @@ using System.Linq;
 using VContainer;
 using VContainer.Unity;
 
-namespace Runtime.DI.Core.Runtime
+namespace Qw1nt.VContainer.LiteTemplate.Runtime
 {
     public static class VContainerExtensions
     {
